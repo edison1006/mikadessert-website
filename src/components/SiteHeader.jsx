@@ -71,7 +71,7 @@ const SiteHeader = () => {
             </span>
           </div>
           <div className="brand-text">
-            <h1 className="brand-name">MIKA DESSERT</h1>
+            <h1 className="brand-name">Mee Cake</h1>
           </div>
         </div>
         <nav className="nav-modern">
